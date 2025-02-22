@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 5
-title: Incident Handlers Journal
+title: TryHackMe Journal "Coming Soon"
 img: handlersjournal.png
 alt: image-alt
 
